@@ -1,1 +1,1 @@
-https://GITHUB-DevtectiveFlex.github.io/rsschool-cv/cv
+https://devtectiveflex.github.io/rsschool-cv/
